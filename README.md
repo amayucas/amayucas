@@ -1,106 +1,51 @@
-## 📬 Contact
-<div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" width="20" height="20" />
-      <a href="mailto:amayudance@gmail.com">amayudance@gmail.com</a>
-    </span>
+ProfileMe.dev
 
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="20" height="20" />
-      <a href="https://www.linkedin.com/in/amayuelas/">LinkedIn</a>
-    </span>
 
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="20" height="20" />
-      <a href="https://github.com/amayucas">GitHub</a>
-    </span>
+INTRODUCTION
+SKILLS
+SOCIALS
+BADGES
+SUPPORT
+Go home
 
-</div>
+© 2026 Dan Cranney
+Follow me
+|
+Buy Me a Coffee
+Support
 
-## 🧠 Skills
+Make it easy for people using your products to support you or give donations.
 
-### Languages
+PREVIOUS
+buymeacoffee
+BUY ME A COFFEE:
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">JavaScript</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/python" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Python</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Java</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/cplusplus" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">C++</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/swift" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Swift</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/kotlin" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Kotlin</span>
-</span>
+kofi
+KO-FI:
 
-### Backend
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Node.js</span>
-</span>
+PREVIOUS
+REORDER SECTIONS
+PREVIEW
+MARKDOWN
+COPY
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is David Amayuelas ========================================================================================================================================  Software Engineer - Mobile Developer ------------------------------------  Mobile developer with a strong technological background and a passion for innovation, please feel free to connect with me. I'm open to exploring new opportunities and contributing to exciting projects that push the boundaries of what's possible in the mobile realm.  * 🌍  I'm based in Madrid - Remote * ✉️  You can contact me at [amayudance@gmail.com](mailto:amayudance@gmail.com) * 🚀  I'm currently working on [Carrefour Spain](http://www.carrefour.es)
 
-### Databases
+<p align="left"> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://www.github.com/amayucas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/amayuelas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/amayucas" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/amayucas?logo=github&style=for-the-badge&color=ffffff&labelColor=27272a" /></a>
+### Badges
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/mongodb" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">MongoDB</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/sqlite" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">SQLite</span>
-</span>
+<a href="https://github.com/amayucas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amayucas&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>Top Repositories</b>
 
-### DevOps & Tools
+<div width="100%" align="center"><a href="https://github.com/amayucas/MyMeds" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amayucas&repo=MyMeds&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/amayucas/Ryanair_lab" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amayucas&repo=Ryanair_lab&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/git" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Git</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/github" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">GitHub</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/bitbucket" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Bitbucket</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/jenkins" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Jenkins</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/firebase" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Firebase</span>
-</span>
+### Support Me
 
-## 📁 Projects
+<ul style="list-style-type: none; margin: 0;">
 
-### MyMeds
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/amayucas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-Medication Log App (SwiftUI)
-
-🔗 [GitHub Repo](https://github.com/amayucas/MyMeds)
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=amayucas&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amayucas&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amayucas&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=amayucas&theme=flat)
-
+</ul>
+ProfileMe.dev | Create an amazing GitHub profile in minutes
